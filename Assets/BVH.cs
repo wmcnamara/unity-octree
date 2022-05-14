@@ -44,6 +44,7 @@ public class BVH : MonoBehaviour
         octree.BuildTree();
     }
 
+    
     void RenderOctree(Octree tree)
     {
         if (tree == null)
