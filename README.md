@@ -5,7 +5,9 @@ Simple octree Unity implementation.
 Allows for simple and fast octree generation and collision testing.
 
 ![](OctreeShowcase.gif)
-* If you see checkerboarding its because of gifs annoying compression ):*
+
+*If you see checkerboarding its because of gifs annoying compression ):*
+
 Uses AABB's as the collision type, but can be extended to other things.
 
 Intended to be used as a reference or resource to implement Octrees yourself.
