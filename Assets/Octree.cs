@@ -64,11 +64,6 @@ public class Octree
         return collisions;
     }
 
-    public void Insert()
-    {
-
-    }
-
     public static BoundingBox[] CreateOctants(BoundingBox box)
     {
         BoundingBox[] octants = new BoundingBox[8];
