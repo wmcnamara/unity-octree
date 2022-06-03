@@ -11,4 +11,4 @@ Allows for simple and fast octree generation and collision testing.
 Uses AABB's as the collision type, but can be extended to other things.
 
 # Please Note
-This **IS NOT** a standalone Unity octree library. Intended to be used as a reference or resource to implement Octrees yourself.
+This **IS NOT** a standalone and generic Unity octree library. Intended to be used as a reference or resource to implement Octrees yourself.
