@@ -12,3 +12,5 @@ Uses AABB's as the collision type, but can be extended to other things.
 
 # Please Note
 This **IS NOT** a standalone and generic Unity octree library. Intended to be used as a reference or resource to implement Octrees yourself.
+
+Some of the code is a bit mediocre, and needs work. Keep this in mind
